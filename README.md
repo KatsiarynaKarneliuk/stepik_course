@@ -1,3 +1,3 @@
 # stepik_course
-home_lesson 123
+home_lesson 00
 
